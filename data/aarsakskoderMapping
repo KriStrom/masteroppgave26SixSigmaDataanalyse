@@ -1,0 +1,35 @@
+﻿Kode;Kort beskrivelse;Nedtrekks-tekst;Tilhørende YtelsesordningKode
+T1;I rute;T1 - I rute;
+T2;Nytt tognummer (Skriv det nye i kommentar);T2 - Nytt tognummer (Skriv det nye i kommentar);Kode 7 - Trafikkavvikling (Infrastrukturs andel)
+T3;Lokfører;T3 - Lokfører;Kode 83 - Manglende personell
+T4;Forsinket ankommet tog. (kort snutid);T4 - Forsinket ankommet tog. (kort snutid);Kode 82 - Kjøretøy sent fra hensettingsspor
+T5;Vognmangel;T5 - Vognmangel;Kode 85 - Planforutsetninger ikke oppfylt
+T6;De-icing;T6 - De-icing;Kode 85 - Planforutsetninger ikke oppfylt
+T7;Graving av snø;T7 - Graving av snø;Kode 92 - Ytre forhold
+T8;Maskinmangel skifting;T8 - Maskinmangel skifting;Kode 84 - Stasjonsopphold
+T9;Feil på vogn;T9 - Feil på vogn;Kode 81 - Feil ved kjøretøy
+T10;Overbooking ;T10 - Overbooking ;Kode 85 - Planforutsetninger ikke oppfylt
+T11;Endring av togstamme;T11 - Endring av togstamme;Kode 85 - Planforutsetninger ikke oppfylt
+T12;Mannskapsmangel;T12 - Mannskapsmangel;Kode 83 - Manglende personell
+T13;Feil på last;T13 - Feil på last;Kode 81 - Feil ved kjøretøy
+T14;Ekstern datafeil TOS/GOS;T14 - Ekstern datafeil TOS/GOS;Kode 4 - Tele, transmisjon, ERTMS og fjernstyring
+T15;Intern datafeil GTS;T15 - Intern datafeil GTS;Kode 7 - Trafikkavvikling (Jernbaneforetaks andel)
+T16;Kø skifting;T16 - Kø skifting;Kode 84 - Stasjonsopphold
+T17;Innstilt tog;T17 - Innstilt tog;Kode X - Innstilt (Forklar i kommentar)
+T18;Sent lok til stamme;T18 - Sent lok til stamme;Kode 82 - Kjøretøy sent fra hensettingsspor
+T19;Feil på lok;T19 - Feil på lok;Kode 81 - Feil ved kjøretøy
+T20;Trafikkstyring (TXP/Togleder);T20 - Trafikkstyring (TXP/Togleder);Kode 7 - Trafikkavvikling (Infrastrukturs andel)
+T21;R206 ikke klar i tide;T21 - R206 ikke klar i tide;Kode 85 - Planforutsetninger ikke oppfylt
+T22;Avsporing;T22 - Avsporing;Kode 93 - Uhell, påkjørsel
+T23;Infrastruktur;T23 - Infrastruktur;Kode 1 - Bane
+T24;Optimalisering av togstamme;T24 - Optimalisering av togstamme;Kode 85 - Planforutsetninger ikke oppfylt
+T25;Transittgods;T25 - Transittgods;Kode 85 - Planforutsetninger ikke oppfylt
+T26;Terminalforhold (Forklar nærmere i kommentar);T26 - Terminalforhold (Forklar nærmere i kommentar);Kode 7 - Trafikkavvikling (Jernbaneforetaks andel)
+T27;Kranstopp;T27 - Kranstopp;Kode 6 - Kjøretøy med feil sperrer spor/blokkstrekning
+T28;Sen lasting/lossing av kunde/underleverandør;T28 - Sen lasting/lossing av kunde/underleverandør;Kode 84 - Stasjonsopphold
+T29;Andre vinterproblemer;T29 - Andre vinterproblemer;Kode 92 - Ytre forhold
+T30;Øvrig toggang;T30 - Øvrig toggang;Kode 7 - Trafikkavvikling (Infrastrukturs andel)
+T31;Mangelfull snørydding av spor;T31 - Mangelfull snørydding av spor;Kode 1 - Bane
+T32;Mangelfull snørydding av lastegater/terminal;T32 - Mangelfull snørydding av lastegater/terminal;Kode 1 - Bane
+T33;Feil på løfteutstyr;T33 - Feil på løfteutstyr;Kode 84 - Stasjonsopphold
+T34;Annen feil, forklaring i kommentarfelt;T34 - Annen feil, forklaring i kommentarfelt;Kode 94 - Uønsket hendelse
