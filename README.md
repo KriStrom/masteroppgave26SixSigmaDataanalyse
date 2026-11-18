@@ -1,4 +1,4 @@
-# Masteroppgave 2026 – Six Sigma-analyse av Alnabruterminalen
+# Masteroppgave 2026 – kvantitativ Six Sigma DMAIC-analyse av Alnabruterminalen
 
 Dette repositoriet inneholder koden og dataflyten som brukes i Kristian Strøms
 masteroppgave i industriell økonomi. Oppgaven undersøker årsaker til
